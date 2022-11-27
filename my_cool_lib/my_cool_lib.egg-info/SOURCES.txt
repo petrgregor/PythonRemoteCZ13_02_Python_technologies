@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+help.html
+setup.py
+data/data.csv
+data/data.json
+my_cool_lib/__init__.py
+my_cool_lib/module_a.py
+my_cool_lib/module_b.py
+my_cool_lib.egg-info/PKG-INFO
+my_cool_lib.egg-info/SOURCES.txt
+my_cool_lib.egg-info/dependency_links.txt
+my_cool_lib.egg-info/top_level.txt
